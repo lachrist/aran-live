@@ -12,15 +12,11 @@
   "license": "MIT",
   "dependencies": {
     "acorn": "5.x",
-    "astring": "1.x",
+    "astring": "1.x"
   },
   "keywords": [
-    "JavaScript",
-    "Instrumentation",
-    "Dynamic Analysis",
-    "Sandboxing",
-    "Monitoring",
-    "Tracing",
-    "Shadow Execution"
+    "Aran",
+    "Live",
+    "API"
   ]
 }
